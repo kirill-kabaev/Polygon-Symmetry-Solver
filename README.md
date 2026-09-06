@@ -1,7 +1,5 @@
 # 2D Convex Polygon Symmetry Detector
 
-Technical assessment implementation for **Shenzhen Honeycomb Interconnection Technology Co., Ltd. (Geometry Technology Department)**.
-
 - **Author:** Kabaev Kirill
 ---
 
