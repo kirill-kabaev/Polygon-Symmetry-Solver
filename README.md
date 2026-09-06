@@ -3,9 +3,6 @@
 Technical assessment implementation for **Shenzhen Honeycomb Interconnection Technology Co., Ltd. (Geometry Technology Department)**.
 
 - **Author:** Kabaev Kirill
-- **Assigned by:** Song Xindi (Geometry Technology Department)
-- **Contact:** songxindi@honeycombtech.com
-
 ---
 
 ## Features & Compliance
