@@ -2,7 +2,6 @@
  * @file symmetry_test.cpp
  * @brief Verified solver for convex polygon symmetry detection.
  * @author Kabaev Kirill
- * @note Task assigned by Song Xindi (Shenzhen Honeycomb Tech)
  */
 
 #include <iostream>
